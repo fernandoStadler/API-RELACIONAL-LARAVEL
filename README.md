@@ -45,6 +45,21 @@ Este projeto possui os seguintes controllers:
 
 Você pode encontrar os controllers na pasta `app/Http/Controllers`.
 
+## Endpoints 🌐
+
+- GET /cargos - Retorna todos os cargos
+- POST /cargos - Cria um novo cargo
+- GET /cargos/{id} - Retorna uma cargo específico
+- PUT /cargos/{id} - Atualiza uma cargo específico
+- DELETE /cargos/{id} - Exclui uma cargo específico
+
+- GET /funcionarios - Retorna todos os funcionarios
+- POST /funcionarios - Cria um novo funcionario
+- GET /funcionarios/{id} - Retorna um funcionario específico
+- PUT /funcionarios/{id} - Atualiza um funcionario específico
+- DELETE /funcionarios/{id} - Exclui um funcionarioespecífico
+
+
 ## Observações 📝
 
 Este projeto foi desenvolvido com fins de estudo, sinta-se à vontade para explorar e personalizar a API de acordo com suas necessidades.
